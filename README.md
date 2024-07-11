@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project.git
+   git clone https://github.com/Nishika2900/Delhivery-Case-Study.git
    cd project
    ```
 
@@ -54,16 +54,4 @@ The `.gitignore` file includes patterns to ignore files and directories generate
 - Virtual environments (e.g., `venv`, `env/`)
 - Compiled Python files (e.g., `*.pyc`)
 - Temporary files (e.g., `*.tmp`)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-### Notes:
-- Replace `Project Name` with your actual project title.
-- Customize the `Usage` section to reflect any additional setup or execution steps specific to your project.
-- Update the `.gitignore` section with specifics relevant to your project's needs.
-- Include a `License` section specifying the licensing terms of your project.
-- Update the `Project Structure` section if your directory structure differs from the example provided.
 
